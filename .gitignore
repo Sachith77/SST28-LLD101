@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+
+# Logs / temp
+*.log
+tmp/
+out/
+build/
